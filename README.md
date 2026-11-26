@@ -12,3 +12,6 @@ Welcome to my GitHub! This GitHub will be a collection of projects I design, sim
 * **Languages:** Python (Automation & Engineering Math), C / C++ (Embedded Foundations)
 * **EDA & Simulation:** KiCad (Schematic Capture & PCB Layout), LTspice (Circuit Analysis)
 * **Hardware:** Microcontrollers (ESP32 / Arduino), Bench Tools & Circuit Assembly
+
+### Certifications 
+- **PCB Design Course** — *Simplilearn* • [View Certificate](./certificates/pcb-design-simplilearn.pdf) *(Nov 2026)*
