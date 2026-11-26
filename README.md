@@ -14,4 +14,4 @@ Welcome to my GitHub! This GitHub will be a collection of projects I design, sim
 * **Hardware:** Microcontrollers (ESP32 / Arduino), Bench Tools & Circuit Assembly
 
 ### Certifications 
-- **PCB Design Course** — *Simplilearn* • [View Certificate](./PCB CERTIFICATE) *(Nov 2026)*
+- **PCB Design Course** — *Simplilearn* • [View Certificate](./PCB%20CERTIFICATE.pdf) *(Nov 2026)*
