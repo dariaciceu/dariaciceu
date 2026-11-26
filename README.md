@@ -4,14 +4,14 @@ Welcome to my GitHub! This GitHub will be a collection of projects I design, sim
 ---
 
 ### About Me
-* **Education:** Honours Bachelor of Engineering (Electrical Engineering) – *(Starting Jan 2027)*
-* **Current Focus:** Python scripting for engineering math, circuit analysis, and embedded microcontroller programming (C/C++)
-* **Hands-on Interests:** Hardware modding, bench testing, soldering, and custom PCB layout design
+- **Education:** Honours Bachelor of Engineering (Electrical Engineering) – *(Starting Jan 2027)*
+- **Current Focus:** Python scripting for engineering math, circuit analysis, and embedded microcontroller programming (C/C++)
+- **Hands-on Interests:** Hardware modding, bench testing, soldering, and custom PCB layout design
 
 ### Hardware & Software Toolkit
-* **Languages:** Python (Automation & Engineering Math), C / C++ (Embedded Foundations)
-* **EDA & Simulation:** KiCad (Schematic Capture & PCB Layout), LTspice (Circuit Analysis)
-* **Hardware:** Microcontrollers (ESP32 / Arduino), Bench Tools & Circuit Assembly
+- **Languages:** Python (Automation & Engineering Math), C / C++ (Embedded Foundations)
+- **EDA & Simulation:** KiCad (Schematic Capture & PCB Layout), LTspice (Circuit Analysis)
+- **Hardware:** Microcontrollers (ESP32 / Arduino), Bench Tools & Circuit Assembly
 
 ### Certifications 
 - **PCB Design Course** — *Simplilearn* • [View Certificate](./PCB%20CERTIFICATE.pdf) *(Nov 2026)*
